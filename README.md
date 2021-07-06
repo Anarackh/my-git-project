@@ -1,3 +1,3 @@
 # My Git Project
 
-> My cod for the git project
+> My code for the git project
